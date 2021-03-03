@@ -1,0 +1,1 @@
+puts 'dmmm webcamp'.length
