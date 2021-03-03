@@ -1,0 +1,1 @@
+puts 'dmm webcamp'.include?('dmm webcamp')
